@@ -13,7 +13,7 @@
 /* a color picker should show up if you hover over the "hsl(x, y, z)" part */
 :root {
 	/* link color */
-	--link-color: hsl(0, 1%, 71%);
+	--link-color: hsl(0, 4%, 90%);
 	/* main accent color (mentions, folder icons, unread indicators) */
 	--accent-color: hsl(0, 1%, 71%);
 	/* darker accent color (background of any accent items with text) */
